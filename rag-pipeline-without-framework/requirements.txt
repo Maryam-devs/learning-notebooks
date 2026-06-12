@@ -1,0 +1,14 @@
+# PDF Handling
+pypdf
+
+# Embedding
+sentence-transformers
+
+# Vector DataBase
+chromadb
+
+# LLM
+groq
+
+# dot-env
+python-dotenv
